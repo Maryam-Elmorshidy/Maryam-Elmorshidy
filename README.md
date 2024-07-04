@@ -1,7 +1,12 @@
-<h3 align="center">
+
+
+<h1 align="center">
   Hi there, I'm Maryam!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h1>
+
+
+<img width="400" align="right" src="https://i.pinimg.com/originals/d3/ca/2b/d3ca2b6b5b0d90c4b98195b205defa29.gif">
 
 
 ### About Me
