@@ -1,4 +1,8 @@
-# Hi there, I'm Maryam! 👋
+<h3 align="center">
+  Hi there, I'm Maryam!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 
 ### About Me
 
@@ -8,6 +12,10 @@
 * 🌅 Early riser who loves to start the day with work and learning
 * 📚 Avid reader with a keen interest in translation
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
 ### Interests
 
