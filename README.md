@@ -73,10 +73,10 @@ More projects and learning experiments will be added as I progress.
 ### Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/maryam-elmorshidy-588282317/" target="_blank">
+  <a href="www.linkedin.com/in/maryam-abdelaziz-9592093a7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/maryamelmorshidy" target="_blank">
+  <a href="https://www.kaggle.com/maryamabdelaziz" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
@@ -84,5 +84,5 @@ More projects and learning experiments will be added as I progress.
 I'm always happy to learn, share ideas, and connect with people who enjoy exploring data and solving problems.
 
 <p align="center">
-        <img src="https://www.pinterest.com/pin/1111333645578784614/" />
+        <img src="https://github.com/Maryam-Elmorshidy/Maryam-Elmorshidy/blob/main/758aaf81feb4951abde486332345e323.jpg" />
 </p>
