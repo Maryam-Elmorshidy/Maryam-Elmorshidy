@@ -82,3 +82,7 @@ More projects and learning experiments will be added as I progress.
 </p>
 
 I'm always happy to learn, share ideas, and connect with people who enjoy exploring data and solving problems.
+
+<p align="center">
+        <img src="https://www.pinterest.com/pin/1111333645578784614/" />
+</p>
