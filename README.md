@@ -39,7 +39,7 @@ Currently focusing on developing practical data analysis skills, including:
 - 📈 **BMW Cars | Interactive Power BI Dashboard:** The dashboard includes five dedicated pages, one for each BMW model. Each page presents the available data through visual elements and interactive features, with a focus on clarity, visual consistency, and ease of navigation.
 - 📊 **Omnia | Sales & Profitability Analysis:** The project focuses on analyzing the performance of a fictional company selling a variety of products, including electronics, home appliances, clothing, and books.
 - 📈 **Salla – Call Center Performance Analysis:** The main objective is to evaluate call center operations, monitor service performance, compare actual call volumes against forecasts, and analyze individual agent performance across multiple projects and months.
-
+- 📊 **Pharma Sales Performance Dashboard:** A Power BI dashboard that analyzes pharmaceutical sales in Egypt for Q1 2025 (January to March). It helps sales managers see what is selling, where, and through which channel.
 
 
 
@@ -61,6 +61,10 @@ More projects and learning experiments will be added as I progress.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftpowerquery&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0078D4?style=for-the-badge&logo=githubactions&logoColor=white)
+![Excel Planner](https://img.shields.io/badge/Excel_Planner-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Programming & Data Tools**
 
