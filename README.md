@@ -36,6 +36,12 @@ Currently focusing on developing practical data analysis skills, including:
 ### Projects
 
 - 📊 **Olist E-commerce Data Analysis:** Analyzed e-commerce data using Excel, including data cleaning, transformation, modeling, and interactive dashboards.
+- 📈 **BMW Cars | Interactive Power BI Dashboard:** The dashboard includes five dedicated pages, one for each BMW model. Each page presents the available data through visual elements and interactive features, with a focus on clarity, visual consistency, and ease of navigation.
+- 📊 **Omnia | Sales & Profitability Analysis:** The project focuses on analyzing the performance of a fictional company selling a variety of products, including electronics, home appliances, clothing, and books.
+- 📈 **Salla – Call Center Performance Analysis:** The main objective is to evaluate call center operations, monitor service performance, compare actual call volumes against forecasts, and analyze individual agent performance across multiple projects and months.
+
+
+
 
 More projects and learning experiments will be added as I progress.
 
